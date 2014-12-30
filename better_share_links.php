@@ -80,7 +80,7 @@ function better_share_link_function( $atts ) {
             $json_data = (json_decode($json, true));
             $success_img_url = $json_data['status'];// Getting the screenshot, is not always successful, so this value helps a lot.
             if($success_img_url==='finished') {// If there the screenshot is not ready, then better wait till it is done
-            // if unsuccessfull, the code will jump to return a standart output of a link.
+            // if unsuccessful, the code will jump to return a standard output of a link.
             // It will do that until the status changes to 'finished
             $screen_img_url = $json_data['image_url'];// the url that page2images provide for the the screenshot
             //-------------------------
