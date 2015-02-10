@@ -8,7 +8,7 @@ Stable tag: 1.0
 A complete template for sharing links using a generated screenshot
 == Description ==
 
-<strong>Better Share Links shortcode plugin </strong> -
+<strong>Better Share Links shortcode plugin:</strong>
 <ul>
 <li>The better way of sharing important links is to share them with their screenshot.</li>
 <li>The plugin makes sharing links(URLs) more user friendly.</li>
